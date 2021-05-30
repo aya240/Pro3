@@ -1,0 +1,8 @@
+prefix=/home/am/Desktop/pro3/install
+
+Name: desc
+Description: Description of desc
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+desc
+-DCATKIN_DEVEL_PREFIX=/home/am/Desktop/pro3/devel -DCMAKE_INSTALL_PREFIX=/home/am/Desktop/pro3/install -G Unix Makefiles
